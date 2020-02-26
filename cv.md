@@ -76,3 +76,12 @@ Project description: application for learning English (in the development stage)
 * August 2019-present  – Area Head, Minsk Automobile Plant
 Main responsibilities: monitoring of working capacity of mechanical and power equipment of production.
 
+### 7. Education:
+
+- SwiftBook online webinar courses
+- Educational Center of HTP “IT- Academy”, Comprehensive course on iOS app development
+- Udemy.com, The Complete iOS 11 & Swift Developer Course - Build 20 Apps
+
+### 8. English: 
+
+Pre-Intermediate
