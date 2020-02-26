@@ -65,3 +65,14 @@ func getTemp(city: String) {
     }
 ```
 
+### 6. Experience:
+
+* November 2019-November 2019  – Junior iOS developer. SwiftBook online webinar courses.
+Project role: Team Lead, iOS developer.
+Project description: application for learning English (in the development stage) - https://github.com/vasiljeu95/EnglishTestApp
+
+* June 2019-Jule2019 – Junior iOS developer. ALOTEQ
+
+* August 2019-present  – Area Head, Minsk Automobile Plant
+Main responsibilities: monitoring of working capacity of mechanical and power equipment of production.
+
